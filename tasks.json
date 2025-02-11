@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Bake a New Recipe",
+    "description": "Try baking something new, like a chocolate lava cake or cinnamon rolls.",
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "title": "Start a 5-Minute Dance Party",
+    "description": "Put on your favorite song and dance like nobody's watching!",
+    "status": "in progress"
+  },
+  {
+    "id": 4,
+    "title": "Frying Plantain",
+    "description": "i want golden ripe dodo with beautifully fried sauce",
+    "status": "pending"
+  },
+  {
+    "id": 5,
+    "title": "Try a New Coffee/Tea Recipe",
+    "description": "Experiment with a new way to make coffee or tea—maybe a dalgona coffee or chai latte?",
+    "status": "completed"
+  },
+  {
+    "id": 6,
+    "title": "Have a Picnic Indoors",
+    "description": "Lay out a blanket in your room, make sandwiches, and have a mini picnic at home.",
+    "status": "pending"
+  },
+  {
+    "id": 7,
+    "title": "Do a DIY Spa Day",
+    "description": "Face masks, foot soak, and relaxing music—pamper yourself at home.",
+    "status": "in progress"
+  },
+  {
+    "id": 8,
+    "title": "Watch a Movie From a Different Genre",
+    "description": "Pick a movie you wouldn’t usually watch—maybe a documentary, classic, or foreign film?",
+    "status": "pending"
+  },
+  {
+    "id": 10,
+    "title": "Learn a Magic Trick",
+    "description": "Look up a simple card or coin trick and impress your friends later.",
+    "status": "pending"
+  },
+  {
+    "id": 11,
+    "title": "Frenching",
+    "description": "at the eiffel tower",
+    "status": "pending"
+  },
+  {
+    "id": 12,
+    "title": "Playing With A Yoruba Man'S Heart",
+    "description": "all jokes, I am too soft (and too busy) for all that jazz.",
+    "status": "shelved till further notice"
+  }
+]
