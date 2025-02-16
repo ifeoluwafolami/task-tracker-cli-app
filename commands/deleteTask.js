@@ -41,7 +41,12 @@ export default async function deleteTask(taskTitle=null) {
             taskToDelete = tasks.find(task => task.title === selectedTitle);
         }
 
-        tasks.splice((taskToDelete.id - 1), 1);        
+        tasks.splice((taskToDelete.id - 1), 1);   
+        
+        // Reorder IDs
+        tasks.forEach((task, index) => {
+            task.id = index + 1;
+        });
 
 
         try {
